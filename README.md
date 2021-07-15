@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning DApp potentials
 - 💬 Ask me about Blockchain, Crypto Mining, Solidity and Hyperledger.
 - 📫 How to reach me: g.kiknadze@hotmail.com
-- ⚡ Fun fact: My real name is Giorgi but everyone calls me George as it's easier to pronounce 😅
 
 <!--
 **kiknaio/kiknaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
