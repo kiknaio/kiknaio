@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Decentralized Applications (building couple of small projects)
 - 🌱 I’m currently learning DApp potentials
 - 💬 Ask me about Blockchain, Crypto Mining, Solidity and Hyperledger.
-- 📫 How to reach me: g.kiknadze@hotmail.com
+- 📫 How to reach me: [Twitter - kikna.io](https://twitter.com/kiknaio) or [LinkedIn](https://www.linkedin.com/in/giorgikiknadze/)
 
 <!--
 **kiknaio/kiknaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
