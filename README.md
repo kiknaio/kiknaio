@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on Decentralized Applications (building couple of small projects)
-- 🌱 I’m currently learning DApp potentials
-- 💬 Ask me about Blockchain, Crypto Mining, Solidity and Hyperledger.
+- 👨‍💻 Senior software engineer @Metamask Institutional
+- 🤖 Building tiny robots
+- 💼 Don't believe in a free work
 - 📫 How to reach me: [Twitter - kikna.io](https://twitter.com/kiknaio) or [LinkedIn](https://www.linkedin.com/in/giorgikiknadze/)
 
 <!--
