@@ -2,7 +2,7 @@
 
 - 👨‍💻 Senior software engineer @Metamask Institutional
 - 🤖 Building Crypto Services
-- 📫 How to reach me: [Twitter - kikna.io](https://twitter.com/kiknaio) <- (Not active here) or [LinkedIn](https://www.linkedin.com/in/giorgikiknadze/)
+- 📫 How to reach me: [Twitter - kikna.io](https://twitter.com/kiknaio) DM me there or contact via [LinkedIn](https://www.linkedin.com/in/giorgikiknadze/)
 
 <!--
 **kiknaio/kiknaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
