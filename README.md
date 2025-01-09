@@ -4,7 +4,7 @@
 
 🌱 Building solo Web3 projects
 
-🤖 Building Crypto Services
+🤖 Not Hyped about AI-Agents. I think it's useful, but I'm not a trend surfer 🏄‍♂️
 
 📫 Contact me via ![alt text][1.2] [Twitter - kikna.io](https://twitter.com/kiknaio) DM me there or via [LinkedIn](https://www.linkedin.com/in/giorgikiknadze/)
 
