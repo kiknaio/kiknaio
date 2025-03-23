@@ -5,7 +5,7 @@
 ![Github Banner](https://github.com/user-attachments/assets/23593d58-a5d7-4e54-b603-62f1cdd69b6f)
 
 
-[Subscribe](https://www.kiknadze.io/subscribe) to my **10x AI-Powered Engineer Accelerator** for FREE
+[Subscribe](https://www.kiknadze.io/subscribe) to my newsletter **10x AI-Powered Engineer Accelerator** for FREE
 
 
 👨‍💻 Senior Software Engineer Ex-@Metamask Institutional
