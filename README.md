@@ -1,10 +1,10 @@
 ### Hey there 👋
 
-👨‍💻 Senior software engineer Ex-@Metamask Institutional
+## Transforming Developers into 10x Engineers with AI | Build more, Code less
 
-🌱 Building solo Web3 projects
+👨‍💻 Senior Software Engineer Ex-@Metamask Institutional
 
-🤖 Not Hyped about AI-Agents. I think it's useful, but I'm not a trend surfer 🏄‍♂️
+🤩 Building AI Agents and helping Developers to thrive!
 
 📫 Contact me via ![alt text][1.2] [Twitter - kikna.io](https://twitter.com/kiknaio) DM me there or via [LinkedIn](https://www.linkedin.com/in/giorgikiknadze/)
 
