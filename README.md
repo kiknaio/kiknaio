@@ -2,7 +2,8 @@
 
 ## Transforming Developers into 10x Engineers with AI | Build more, Code less
 
-![Linkedin-post-direction-change](https://github.com/user-attachments/assets/5ff48d1f-82c0-4ab1-bdbc-ca3ccc9e4bf6)
+![Github Banner](https://github.com/user-attachments/assets/23593d58-a5d7-4e54-b603-62f1cdd69b6f)
+
 
 [Subscribe](https://www.kiknadze.io/subscribe) to my **10x AI-Powered Engineer Accelerator** for FREE
 
