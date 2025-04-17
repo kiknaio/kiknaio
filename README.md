@@ -5,7 +5,7 @@
 ![Github Banner](https://github.com/user-attachments/assets/2f98f267-5962-4084-bef0-b6e9297eb6f3)
 
 
-[Subscribe](https://newsletter.10xboost.dev/subscribe) to my newsletter **AI-Powered 10x Engineer Newsletter** for FREE
+[Subscribe](https://newsletter.ai30.io) to my newsletter **AI-Powered 10x Engineer Newsletter** for FREE
 
 
 👨‍💻 Senior Software Engineer Ex-@Metamask Institutional
