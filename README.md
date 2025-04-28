@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-## Transforming Developers into 10x Engineers with AI | Build more, Code less
+## Learn. Build. Ship AI Agents at AI30.io
 
-![Github Banner](https://github.com/user-attachments/assets/2f98f267-5962-4084-bef0-b6e9297eb6f3)
+![banner](https://github.com/user-attachments/assets/02d63b40-603e-46fb-bb5c-c24e8a95acff)
 
 
 [Subscribe](https://newsletter.ai30.io) to my newsletter **AI-Powered 10x Engineer Newsletter** for FREE
