@@ -1,11 +1,6 @@
 ### Hey there 👋
 
-## Learn. Build. Ship AI Agents at AI30.io
-
-![banner](https://github.com/user-attachments/assets/02d63b40-603e-46fb-bb5c-c24e8a95acff)
-
-
-[Subscribe](https://newsletter.ai30.io) to my newsletter **AI-Powered 10x Engineer Newsletter** for FREE
+[Subscribe](https://newsletter.ai30.io) to my newsletter **AI Agents Newsletter** for FREE
 
 
 👨‍💻 Senior Software Engineer Ex-@Metamask Institutional
