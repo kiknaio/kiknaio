@@ -1,11 +1,11 @@
 ### Hey there 👋
 
-[Subscribe](https://newsletter.ai30.io) to my newsletter **AI Agents Newsletter** for FREE
+[Subscribe]([https://newsletter.ai30.io](https://agenteng.substack.com/)) to my newsletter **Agent Engineering**
 
 
 👨‍💻 Senior Software Engineer Ex-@Metamask Institutional
 
-🤩 Building AI Agents and helping Developers to thrive!
+🤖 Building army of AI Agents
 
 📫 Contact me via ![alt text][1.2] [Twitter - kikna.io](https://twitter.com/kiknaio) DM me there or via [LinkedIn](https://www.linkedin.com/in/giorgikiknadze/)
 
