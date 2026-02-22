@@ -26,6 +26,8 @@
 
 🔍 **[X Service Idea Scanner](https://github.com/kiknaio/X-Service-Idea-Scanner)** — Grok-powered analysis of X posts to surface real product/service demand
 
+🗺️ **[MapDraw.live](https://mapdraw.live/)**
+
 🚀 **Stealth Startup** — Coming soon
 
 ---
